@@ -1,0 +1,80 @@
+
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+<channel xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<title/>
+<link>https://powerautomate.microsoft.com/en-us/blog/</link>
+<description/>
+<language>en-US</language>
+<lastBuildDate>Wed, 12 Apr 2023 05:53:27 Z</lastBuildDate>
+<item>
+<guid isPermaLink="false">improving-the-azure-openai-models-in-power-automate-to-save-people-time</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/improving-the-azure-openai-models-in-power-automate-to-save-people-time/</link>
+<title>Improving the Azure OpenAI models in Power Automate to save people time</title>
+<description>In October of 2022 we released the Describe it to design it feature where you can write a simple sentence and get a flow based on this description. In this post, we’ll dive more into the details of the improvements we’ve been making with this feature.</description>
+<pubDate>Tue, 04 Apr 2023 17:00:00 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">explore-new-capabilities-in-microsoft-power-automate-at-the-microsoft-business-applications-launch-event</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/explore-new-capabilities-in-microsoft-power-automate-at-the-microsoft-business-applications-launch-event/</link>
+<title>Explore new capabilities in Microsoft Power Automate at the Microsoft Business Applications Launch Event</title>
+<description>Businesses today are constantly facing new and bigger challenges. Technology is diversifying and evolving faster than ever to address these issues, giving industries across the board a growing number of solutions to sift through. </description>
+<pubDate>Wed, 22 Mar 2023 15:55:08 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">2-new-verified-connectors-and-12-updates-released-in-february-2023</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/2-new-verified-connectors-and-12-updates-released-in-february-2023/</link>
+<title>2 New Verified Connectors and 12 Updates released in February 2023</title>
+<description>We are happy to announce that we have launched 2 new verified connectors and 12 updates in February 2023. Partners are excited about the release of their connectors and have shared an overview of their services and feature updates. Read the post to learn more about the capabilities of these services.</description>
+<pubDate>Mon, 20 Mar 2023 16:20:24 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">automate-smarter-than-ever-before-with-ai-builder-and-copilot-in-power-automate</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/automate-smarter-than-ever-before-with-ai-builder-and-copilot-in-power-automate/</link>
+<title>Automate smarter than ever before with AI Builder and Copilot in Power Automate</title>
+<description>In October of 2022 we released the Describe it to design it feature where you can write a simple sentence and get a flow based on this description. Today, we have two announcements on how we&#8217;re bringing more intelligence throughout the Power Platform and Power Automate specifically: Copilot in Power Automate and create text with GPT in Power Automate – on the Desktop too!</description>
+<pubDate>Thu, 16 Mar 2023 15:00:54 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">maximizing-your-productivity-with-power-automate-automating-your-calendar</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/maximizing-your-productivity-with-power-automate-automating-your-calendar/</link>
+<title>Maximizing Your Productivity with Power Automate: Automating your calendar.</title>
+<description>Simplify calendar management and be more productive using these Power Automate templates</description>
+<pubDate>Thu, 09 Mar 2023 17:00:00 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">11-new-independent-publisher-connectors-in-february-2023</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/11-new-independent-publisher-connectors-in-february-2023/</link>
+<title>11 New Independent Publisher Connectors in February 2023</title>
+<description>We are excited to announce that we have 11 new Independent Publisher connectors that were published in February 2023. Read about the connectors, learn about the talented publishers, and take a look at the connector files!</description>
+<pubDate>Thu, 09 Mar 2023 15:00:44 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">more-manageable-cloud-flows-with-dataverse-solutions-by-default</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/more-manageable-cloud-flows-with-dataverse-solutions-by-default/</link>
+<title>More manageable cloud flows with Dataverse solutions by default</title>
+<description>Administrators can take advantage of a new environment setting that ensures that all new cloud flows will be created in Dataverse solutions. This increases manageability and allows those cloud flows to take advantage of Dataverse-specific capabilities like connection references, environment variables, the Dataverse API, and solution-based application lifecycle management (ALM).</description>
+<pubDate>Mon, 06 Mar 2023 17:00:45 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">automate-workflows-with-power-automate-connector-for-updates-in-microsoft-teams</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/automate-workflows-with-power-automate-connector-for-updates-in-microsoft-teams/</link>
+<title>Automate workflows with Power Automate connector for Updates in Microsoft Teams</title>
+<description>In this blog, you will learn how to use the Updates Power Automate connector &#8211; a feature that lets you create workflows with the Updates Teams app. You will also find out what you need to do before using this connector and how to set it up step by step.</description>
+<pubDate>Wed, 01 Mar 2023 19:00:00 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">monitor-your-rpa-automations-with-desktop-flow-activity-generally-available</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/monitor-your-rpa-automations-with-desktop-flow-activity-generally-available/</link>
+<title>Monitor your RPA automations with desktop flow activity (Generally Available)</title>
+<description>We are happy to announce that Desktop flow activity is now generally available. Desktop flow activity is the new area in Power Automate to monitor in real-time your desktop flows automations.</description>
+<pubDate>Mon, 27 Feb 2023 17:00:00 Z</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">power-automate-desktop-flows-in-dataverse-updates</guid>
+<link>https://powerautomate.microsoft.com/en-us/blog/power-automate-desktop-flows-in-dataverse-updates/</link>
+<title>Power Automate desktop flows in Dataverse updates</title>
+<description>Power Automate desktop flows are stored in Microsoft Dataverse, which lets you securely store and manage data that&#8217;s used by business applications. This enables you to leverage features like Solutions for Application Lifecycle Management (ALM). We are updating the way that desktop flows are stored in Dataverse to make it much easier to work with when you are using Dataverse APIs and enable future product enhancements.</description>
+<pubDate>Thu, 23 Feb 2023 17:00:51 Z</pubDate>
+</item>
+</channel>
+</rss>
